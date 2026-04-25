@@ -1,0 +1,11 @@
+ms-vscode.powershell
+github.copilot
+github.copilot-chat
+github.vscode-pull-request-github
+github.vscode-github-actions
+github.remotehub
+editorconfig.editorconfig
+streetsidesoftware.code-spell-checker
+DavidAnson.vscode-markdownlint
+tobysmith568.run-in-powershell
+esbenp.prettier-vscode

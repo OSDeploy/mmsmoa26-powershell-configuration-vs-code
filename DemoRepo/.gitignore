@@ -1,0 +1,16 @@
+# PowerShell / VS Code
+*.log
+.vscode-test/
+.vscode/*.log
+
+# Pester output
+TestResults*.xml
+
+# Build artifacts
+Output/
+bin/
+obj/
+
+# OS
+Thumbs.db
+.DS_Store
