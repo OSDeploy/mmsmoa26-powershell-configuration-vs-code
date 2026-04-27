@@ -27,18 +27,20 @@ A practical, fresh-install approach to configuring VS Code for PowerShell work. 
 3. Integrate VS Code with GitHub for efficient cloning, branching, committing, and change review.
 4. Set up GitHub Copilot for advanced PowerShell coding assistance.
 
-These map 1:1 to folders `01-Profiles/`, `02-Settings-and-Extensions/`, `03-GitHub-Integration/`, and `04-GitHub-Copilot/`.
+These map 1:1 to folders `03-Profiles/`, `04-Settings/`, `05-GitHub-Integration/`, and `06-GitHub-Copilot/`.
 
 ## Repository layout
 
 ```
 .github/                      # Copilot instructions (this file)
 00-Introduction/              # 5 min intro
-01-Profiles/                  # Learning objective 1
-02-Settings-and-Extensions/   # Learning objective 2
-03-GitHub-Integration/        # Learning objective 3
-04-GitHub-Copilot/            # Learning objective 4
-05-Wrap-Up/                   # 3 min wrap + Q&A prep
+01-VS-Code-First-Run/         # 8 min UI orientation and first-run essentials
+02-Extensions/                # 5 min essential extensions list and bulk install
+03-Profiles/                  # Learning objective 1
+04-Settings/                  # Learning objective 2
+05-GitHub-Integration/        # Learning objective 3
+06-GitHub-Copilot/            # Learning objective 4
+07-Wrap-Up/                   # 3 min wrap + Q&A prep
 Profile/                      # Shippable starter VS Code profile assets
 DemoRepo/                     # Sample PowerShell module used in the GitHub demo
 Presentation/                 # IGNORED - slide placeholders, do not edit

@@ -1,6 +1,6 @@
-# 05 - Wrap-Up
+# 07 - Wrap-Up
 
-**Time:** 57 - 60 minutes (3 min), then 45 minutes Q&A
+**Time:** 65 - 68 minutes (3 min), then 37 minutes Q&A
 **Owner:** Both
 
 ## Objectives

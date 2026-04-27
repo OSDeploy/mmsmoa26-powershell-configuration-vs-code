@@ -10,12 +10,12 @@ The Command Palette `Git: Clone` flow is faster than the GitHub website -> Code 
 
 ## Settings / commands
 
-| Command | What it does |
-|---------|--------------|
-| `Git: Clone` | Prompts for URL or browses GitHub repos you have access to |
-| `GitHub: Clone` | Same, scoped to the signed-in GitHub account |
-| `Git: Clone (Recursive)` | Includes submodules |
-| `code <folder>` | Open a folder from the terminal |
+| Command                  | What it does                                               |
+| ------------------------ | ---------------------------------------------------------- |
+| `Git: Clone`             | Prompts for URL or browses GitHub repos you have access to |
+| `GitHub: Clone`          | Same, scoped to the signed-in GitHub account               |
+| `Git: Clone (Recursive)` | Includes submodules                                        |
+| `code <folder>`          | Open a folder from the terminal                            |
 
 ## Demo steps
 
@@ -24,7 +24,7 @@ The Command Palette `Git: Clone` flow is faster than the GitHub website -> Code 
 3. Pick a parent folder (e.g., `C:\Code`).
 4. When prompted "Open the cloned repository?", choose **Open in New Window**.
 5. Workspace Trust prompt -> Trust the folder and parent.
-6. Show the profile in the new window matches the one we built in section 01.
+6. Show the profile in the new window matches the one we built in section 03.
 
 ## Gotchas
 

@@ -40,7 +40,7 @@ Invoke-Pester -Path .\Tests
 
 ## Used by
 
-- [../03-GitHub-Integration/](../03-GitHub-Integration/) - clone, branch, commit, PR demo
-- [../04-GitHub-Copilot/](../04-GitHub-Copilot/) - inline completions, chat, edit-mode demos
+- [../05-GitHub-Integration/](../05-GitHub-Integration/) - clone, branch, commit, PR demo
+- [../06-GitHub-Copilot/](../06-GitHub-Copilot/) - inline completions, chat, edit-mode demos
 
 [Back to root](../README.md)
