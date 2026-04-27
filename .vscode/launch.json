@@ -1,0 +1,43 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "PowerShell: Launch Current File",
+      "type": "PowerShell",
+      "request": "launch",
+      "script": "${file}",
+      "args": [],
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "PowerShell: Launch Current File with Arguments",
+      "type": "PowerShell",
+      "request": "launch",
+      "script": "${file}",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopOnEntry": false
+    },
+    {
+      "name": "PowerShell: Debug Selection in Integrated Console",
+      "type": "PowerShell",
+      "request": "launch",
+      "script": "${file}",
+      "cwd": "${workspaceFolder}",
+      "createTemporaryIntegratedConsole": false
+    },
+    {
+      "name": "PowerShell: Debug Selected Item",
+      "type": "PowerShell",
+      "request": "launch",
+      "script": "${command:PowerShell.DebugSessionSelection}",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "PowerShell: Interactive Session",
+      "type": "PowerShell",
+      "request": "launch",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

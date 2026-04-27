@@ -1,0 +1,115 @@
+{
+  "Advanced function skeleton": {
+    "prefix": "func",
+    "scope": "powershell",
+    "body": [
+      "function ${1:Verb-Noun} {",
+      "    [CmdletBinding()]",
+      "    param(",
+      "        [Parameter(Mandatory, ValueFromPipeline, ValueFromPipelineByPropertyName)]",
+      "        [string[]]$${2:Name}",
+      "    )",
+      "",
+      "    begin {",
+      "        $0",
+      "    }",
+      "",
+      "    process {",
+      "        foreach ($Item in $${2:Name}) {",
+      "            ",
+      "        }",
+      "    }",
+      "",
+      "    end {",
+      "    }",
+      "}"
+    ],
+    "description": "Advanced function with CmdletBinding and pipeline support"
+  },
+  "Comment-based help": {
+    "prefix": "cbh",
+    "scope": "powershell",
+    "body": [
+      "<#",
+      ".SYNOPSIS",
+      "    ${1:Short description}",
+      "",
+      ".DESCRIPTION",
+      "    ${2:Long description}",
+      "",
+      ".PARAMETER ${3:Name}",
+      "    ${4:Parameter description}",
+      "",
+      ".EXAMPLE",
+      "    ${5:Example}",
+      "",
+      ".OUTPUTS",
+      "    ${6:Output type}",
+      "",
+      ".NOTES",
+      "    ${0:Notes}",
+      "#>"
+    ],
+    "description": "Comment-based help block"
+  },
+  "Pester test scaffold": {
+    "prefix": "pester",
+    "scope": "powershell",
+    "body": [
+      "Describe '${1:Function-Name}' {",
+      "    Context '${2:When called with valid input}' {",
+      "        It '${3:Should return expected result}' {",
+      "            $Result = ${1:Function-Name} -${4:Param} '${5:Value}'",
+      "            $Result | Should -Be '${6:Expected}'",
+      "        }",
+      "    }",
+      "}"
+    ],
+    "description": "Pester 5 Describe/Context/It scaffold"
+  },
+  "Module manifest": {
+    "prefix": "psd1",
+    "scope": "powershell",
+    "body": [
+      "@{",
+      "    RootModule        = '${1:ModuleName}.psm1'",
+      "    ModuleVersion     = '${2:0.1.0}'",
+      "    GUID              = '${3:00000000-0000-0000-0000-000000000000}'",
+      "    Author            = '${4:Author}'",
+      "    CompanyName       = '${5:Company}'",
+      "    Copyright         = '(c) ${6:2026} ${5:Company}. All rights reserved.'",
+      "    Description       = '${7:Description}'",
+      "    PowerShellVersion = '7.0'",
+      "    FunctionsToExport = @('${8:Verb-Noun}')",
+      "    CmdletsToExport   = @()",
+      "    VariablesToExport = @()",
+      "    AliasesToExport   = @()",
+      "    PrivateData = @{",
+      "        PSData = @{",
+      "            Tags         = @('${9:tag}')",
+      "            ProjectUri   = '${10:https://example.com}'",
+      "            ReleaseNotes = '${0:Initial release}'",
+      "        }",
+      "    }",
+      "}"
+    ],
+    "description": "Module manifest skeleton"
+  },
+  "Try / catch / finally": {
+    "prefix": "try",
+    "scope": "powershell",
+    "body": [
+      "try {",
+      "    $${1:Result} = ${2:Invoke-Something} -ErrorAction Stop",
+      "}",
+      "catch {",
+      "    Write-Error -Message \"${3:Failed}: $_\" -ErrorRecord $_",
+      "    throw",
+      "}",
+      "finally {",
+      "    $0",
+      "}"
+    ],
+    "description": "try / catch / finally with rethrow"
+  }
+}

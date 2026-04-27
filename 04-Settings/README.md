@@ -1,8 +1,8 @@
-# 02 - Settings and Extensions
+# 04 - Settings
 
-**Time:** 17 - 35 minutes (18 min)
+**Time:** 30 - 43 minutes (13 min)
 **Owner:** David
-**Learning objective:** Implement recommended settings, including formatting and security, as well as essential PowerShell extensions.
+**Learning objective:** Implement recommended settings, including formatting and security, for effective PowerShell work in VS Code.
 
 ## Outcomes
 
@@ -13,8 +13,7 @@ By the end of this section attendees can:
 3. Configure Workspace Trust and other security-relevant settings.
 4. Set up the PowerShell extension and the Integrated Console.
 5. Format PowerShell with PSScriptAnalyzer and a chosen brace style.
-6. Install a curated set of supporting extensions.
-7. Add a few high-leverage snippets and keybindings.
+6. Add a few high-leverage snippets and keybindings.
 
 ## Subtopics
 
@@ -22,7 +21,6 @@ By the end of this section attendees can:
 - [security-settings.md](./security-settings.md)
 - [formatting.md](./formatting.md)
 - [powershell-extension.md](./powershell-extension.md)
-- [essential-extensions.md](./essential-extensions.md)
 - [codelens.md](./codelens.md)
 - [keybindings-and-snippets.md](./keybindings-and-snippets.md)
 
@@ -36,8 +34,7 @@ By the end of this section attendees can:
 6. Place a breakpoint, hit `F5`, step through.
 7. Right-click in editor -> Format Document. Switch `powershell.codeFormatting.preset` between `Custom`, `OTBS`, and `Stroustrup`.
 8. Open the PSScriptAnalyzer view in the Problems panel.
-9. Install GitHub PRs, GitHub Actions, GitHub Repositories, EditorConfig, Code Spell Checker live (queue them so they install in parallel).
-10. Show a snippet expand: type `func` -> tab. Show a custom keybinding.
+9. Show a snippet expand: type `func` -> tab. Show a custom keybinding.
 
 **Fallback:** if marketplace install fails, use a pre-staged extensions VSIX folder.
 

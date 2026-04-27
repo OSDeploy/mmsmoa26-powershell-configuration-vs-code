@@ -1,6 +1,6 @@
-# 01 - Profiles
+# 03 - Profiles
 
-**Time:** 5 - 17 minutes (12 min)
+**Time:** 18 - 30 minutes (12 min)
 **Owner:** David
 **Learning objective:** Create and manage customized VS Code profiles designed for effective PowerShell work.
 

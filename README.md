@@ -5,7 +5,7 @@ Materials for the MMSMOA 2026 session of the same name.
 - **Event:** MMS 2026 at MOA
 - **When:** Monday, May 4, 2026, 3:00 PM - 4:45 PM CDT
 - **Where:** Cedar
-- **Format:** 60 minutes content + live demos, followed by 45 minutes Q&A
+- **Format:** 68 minutes content + live demos, followed by 37 minutes Q&A
 - **Sched:** https://mms2026atmoa.sched.com/event/2HHGJ/master-powershell-configuration-in-vs-code
 - **Speakers:** David Segura and Jeff Scripter (Recast Software)
 
@@ -22,15 +22,17 @@ A practical, fresh-install approach to configuring VS Code for PowerShell. We st
 
 ## Session outline and timing
 
-| Time (min) | Section | Owner |
-|------------|---------|-------|
-| 0 - 5 | [00 Introduction](./00-Introduction/README.md) | David |
-| 5 - 17 | [01 Profiles](./01-Profiles/README.md) | David |
-| 17 - 35 | [02 Settings and Extensions](./02-Settings-and-Extensions/README.md) | David |
-| 35 - 47 | [03 GitHub Integration](./03-GitHub-Integration/README.md) | Jeff |
-| 47 - 57 | [04 GitHub Copilot](./04-GitHub-Copilot/README.md) | Jeff |
-| 57 - 60 | [05 Wrap-Up](./05-Wrap-Up/README.md) | Both |
-| 60 - 105 | Q&A | Both |
+| Time (min) | Section                                                    | Owner |
+| ---------- | ---------------------------------------------------------- | ----- |
+| 0 - 5      | [00 Introduction](./00-Introduction/README.md)             | David |
+| 5 - 13     | [01 VS Code First Run](./01-VS-Code-First-Run/README.md)   | Jeff  |
+| 13 - 18    | [02 Extensions](./02-Extensions/README.md)                 | David |
+| 18 - 30    | [03 Profiles](./03-Profiles/README.md)                     | David |
+| 30 - 43    | [04 Settings](./04-Settings/README.md)                     | David |
+| 43 - 55    | [05 GitHub Integration](./05-GitHub-Integration/README.md) | Jeff  |
+| 55 - 65    | [06 GitHub Copilot](./06-GitHub-Copilot/README.md)         | Jeff  |
+| 65 - 68    | [07 Wrap-Up](./07-Wrap-Up/README.md)                       | Both  |
+| 68 - 105   | Q&A                                                        | Both  |
 
 Speaker split is a proposal; confirm before final rehearsal.
 
@@ -38,11 +40,13 @@ Speaker split is a proposal; confirm before final rehearsal.
 
 - [.github/copilot-instructions.md](./.github/copilot-instructions.md) - guidance for AI assistants working in this repo
 - [00-Introduction/](./00-Introduction/) - speakers, conference, agenda, prerequisites
-- [01-Profiles/](./01-Profiles/) - learning objective 1
-- [02-Settings-and-Extensions/](./02-Settings-and-Extensions/) - learning objective 2
-- [03-GitHub-Integration/](./03-GitHub-Integration/) - learning objective 3
-- [04-GitHub-Copilot/](./04-GitHub-Copilot/) - learning objective 4
-- [05-Wrap-Up/](./05-Wrap-Up/) - takeaways, resources, Q&A prep
+- [01-VS-Code-First-Run/](./01-VS-Code-First-Run/) - UI orientation and first-run essentials
+- [02-Extensions/](./02-Extensions/) - essential extensions list and bulk install
+- [03-Profiles/](./03-Profiles/) - learning objective 1
+- [04-Settings/](./04-Settings/) - learning objective 2
+- [05-GitHub-Integration/](./05-GitHub-Integration/) - learning objective 3
+- [06-GitHub-Copilot/](./06-GitHub-Copilot/) - learning objective 4
+- [07-Wrap-Up/](./07-Wrap-Up/) - takeaways, resources, Q&A prep
 - [Profile/](./Profile/) - shippable starter VS Code profile (settings, extensions list, snippets)
 - [DemoRepo/](./DemoRepo/) - sample PowerShell module used in the GitHub demo
 - `Presentation/` - slide deck placeholders (not maintained here)

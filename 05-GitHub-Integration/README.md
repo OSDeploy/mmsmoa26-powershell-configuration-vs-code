@@ -1,6 +1,6 @@
-# 03 - GitHub Integration
+# 05 - GitHub Integration
 
-**Time:** 35 - 47 minutes (12 min)
+**Time:** 43 - 55 minutes (12 min)
 **Owner:** Jeff
 **Learning objective:** Integrate VS Code with GitHub for efficient cloning, branching, committing, and change review.
 
@@ -13,7 +13,7 @@ By the end of this section attendees can:
 3. Clone a repo and open it in a profile-aware window.
 4. Create a branch, commit, and push from the Source Control view.
 5. Open and review a pull request without leaving VS Code.
-7. Watch GitHub Actions workflow runs and browse remote repos without cloning.
+6. Watch GitHub Actions workflow runs and browse remote repos without cloning.
 
 ## Subtopics
 

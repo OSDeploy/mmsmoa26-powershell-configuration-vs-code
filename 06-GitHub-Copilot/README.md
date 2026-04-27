@@ -1,6 +1,6 @@
-# 04 - GitHub Copilot
+# 06 - GitHub Copilot
 
-**Time:** 47 - 57 minutes (10 min)
+**Time:** 55 - 65 minutes (10 min)
 **Owner:** Jeff
 **Learning objective:** Set up GitHub Copilot for advanced PowerShell coding assistance.
 

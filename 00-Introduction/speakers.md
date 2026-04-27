@@ -16,13 +16,14 @@
 
 ## Speaker split (proposed)
 
-| Section | Lead |
-|---------|------|
-| 00 Introduction | David |
-| 01 Profiles | David |
-| 02 Settings and Extensions | David |
-| 03 GitHub Integration | Jeff |
-| 04 GitHub Copilot | Jeff |
-| 05 Wrap-Up + Q&A | Both |
+| Section                    | Lead         |
+| -------------------------- | ------------ |
+| 00 Introduction            | David & Jeff |
+| 01 VS Code First Run       | Jeff         |
+| 02 Profiles                | David        |
+| 03 Settings and Extensions | David        |
+| 04 GitHub Integration      | David        |
+| 05 GitHub Copilot          | Jeff         |
+| 06 Wrap-Up + Q&A           | Both         |
 
 Confirm the split during dry run. Either presenter can take any section if needed.
