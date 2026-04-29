@@ -33,7 +33,7 @@ By the end of this section attendees can:
 
 ## Talking points
 
-- This is the same list baked into the starter profile in `Profile/extensions.txt`. Import the profile instead of running the script if you want to skip the live install.
+- This is the same list baked into the starter profile in `Samples/extensions.txt`. Import the profile instead of running the script if you want to skip the live install.
 - The PowerShell extension is the only truly required one. Everything else is high-leverage but optional.
 - Fewer extensions = faster startup. Resist the urge to install 40 extensions.
 

@@ -1,11 +1,11 @@
-# DemoRepo - MyDemoModule
+# MyDemoModule
 
 A tiny PowerShell module used during the GitHub Integration and Copilot demos. It is intentionally minimal so that any change is easy to read in a diff on the projector.
 
 ## Structure
 
 ```
-DemoRepo/
+Demos/MyDemoModule/
   MyDemoModule.psd1            # Module manifest
   MyDemoModule.psm1            # Module loader (dot-sources Public/Private)
   Public/

@@ -41,8 +41,8 @@ These map 1:1 to folders `03-Profiles/`, `04-Settings/`, `05-GitHub-Integration/
 05-GitHub-Integration/        # Learning objective 3
 06-GitHub-Copilot/            # Learning objective 4
 07-Wrap-Up/                   # 3 min wrap + Q&A prep
-Profile/                      # Shippable starter VS Code profile assets
-DemoRepo/                     # Sample PowerShell module used in the GitHub demo
+Samples/                      # Shippable starter VS Code profile assets
+Demos/                        # Sample PowerShell module used in the GitHub demo
 Presentation/                 # IGNORED - slide placeholders, do not edit
 README.md                     # Full session outline
 ```
@@ -79,7 +79,7 @@ Each section folder has a `README.md` (objectives, timing, demo outline, talking
 - Every demo must work from a fresh VS Code profile so it can be reproduced in the room.
 - List demo steps as a numbered checklist. Include the exact command, menu path, or keybinding.
 - Note expected outcome and a fallback if the demo fails (no internet, sign-in prompt, etc.).
-- For GitHub demos, use the in-repo `DemoRepo/` scaffold; do not depend on private repos.
+- For GitHub demos, use the in-repo `Demos/MyDemoModule/` scaffold; do not depend on private repos.
 
 ## Linking
 

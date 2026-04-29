@@ -8,7 +8,7 @@ Show attendees three ways to pick up the starter profile.
 
 1. Clone or download this repo.
 2. In VS Code, `Profiles: Import Profile...`.
-3. Pick `Profile/mmsmoa26.code-profile`.
+3. Pick `Samples/mmsmoa26.code-profile`.
 4. Window reloads into the new profile. Done.
 
 ## Option 2 - Import via URL
@@ -21,14 +21,14 @@ Show attendees three ways to pick up the starter profile.
 If you do not want to import a binary:
 
 1. Create a fresh profile (`Profiles: Create Profile...`).
-2. Open `Profile/settings.json` and copy into your User Settings (JSON).
+2. Open `Samples/settings.json` and copy into your User Settings (JSON).
 3. Bulk install extensions:
 
    ```powershell
-   Get-Content Profile\extensions.txt | ForEach-Object { code --install-extension $_ }
+   Get-Content Samples\extensions.txt | ForEach-Object { code --install-extension $_ }
    ```
 
-4. Copy `Profile/snippets/powershell.json` into `%APPDATA%\Code\User\snippets\powershell.json` (or per-profile equivalent).
+4. Copy `Samples/snippets/powershell.json` into `%APPDATA%\Code\User\snippets\powershell.json` (or per-profile equivalent).
 
 ## Verifying the profile
 
@@ -40,7 +40,7 @@ code --list-extensions
 # DavidAnson.vscode-markdownlint, tobysmith568.run-in-powershell, esbenp.prettier-vscode
 ```
 
-Open `DemoRepo/` and confirm:
+Open `Demos/MyDemoModule/` and confirm:
 
 - PowerShell extension activates (status bar shows the version).
 - Format-on-save works on a `.ps1` file.
@@ -48,4 +48,4 @@ Open `DemoRepo/` and confirm:
 
 ## Updating
 
-This profile is a starting point. Fork it, edit `Profile/`, re-export, share with your team. PRs welcome on the session repo if you spot a real improvement.
+This profile is a starting point. Fork it, edit `Samples/`, re-export, share with your team. PRs welcome on the session repo if you spot a real improvement.

@@ -40,7 +40,7 @@ To see and edit all bindings: `Ctrl+K Ctrl+S` or `> Preferences: Open Keyboard S
 ## Demo steps
 
 1. Press `Ctrl+Shift+P`. Type "close" and observe how results filter as you type.
-2. Press `Escape`. Press `Ctrl+P`. Type a filename from `DemoRepo/` (e.g., `Get-DemoStatus`). Press Enter to open it.
+2. Press `Escape`. Press `Ctrl+P`. Type a filename from `Demos/MyDemoModule/` (e.g., `Get-DemoStatus`). Press Enter to open it.
 3. In the quick-open box, type `>` - notice it switches to command mode. Type "Format Document" and show the shortcut listed on the right.
 4. Press `Escape`. Press `Ctrl+Shift+P`. Type "profile" and show the profile commands we will use in the next section.
 

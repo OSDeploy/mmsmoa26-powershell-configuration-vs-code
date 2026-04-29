@@ -11,11 +11,11 @@ A one-slide summary attendees can photograph.
 
 ## The deliverables
 
-- Starter profile: `Profile/mmsmoa26.code-profile`
-- Recommended settings: `Profile/settings.json`
-- Extension list: `Profile/extensions.txt`
-- Snippets: `Profile/snippets/powershell.json`
-- Demo repo: `DemoRepo/`
+- Starter profile: `Samples/mmsmoa26.code-profile`
+- Recommended settings: `Samples/settings.json`
+- Extension list: `Samples/extensions.txt`
+- Snippets: `Samples/snippets/powershell.json`
+- Demo repo: `Demos/MyDemoModule/`
 
 ## The one habit change
 
