@@ -27,7 +27,7 @@ By the end of this section attendees can:
 ## Demo outline
 
 1. Show Accounts -> Copilot status. Sign in if needed (auto if already signed into GitHub).
-2. Open `DemoRepo/MyDemoModule.psm1`. Type a function comment and let Copilot complete a `Get-DemoVersion` body.
+2. Open `Demos/MyDemoModule/MyDemoModule.psm1`. Type a function comment and let Copilot complete a `Get-DemoVersion` body.
 3. Open Copilot Chat (`Ctrl+Alt+I`). Ask: "Explain what this module does."
 4. Use the `/tests` slash command in a Pester file to generate a new test.
 5. Switch to Edit mode. Ask Copilot to add comment-based help to every public function. Review and accept the multi-file diff.

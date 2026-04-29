@@ -45,7 +45,7 @@ foreach ($Ext in $Extensions) {
 }
 ```
 
-The same list lives in [../Profile/extensions.txt](../Profile/extensions.txt).
+The same list lives in [../Samples/extensions.txt](../Samples/extensions.txt).
 
 ## Demo steps
 

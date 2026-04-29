@@ -53,11 +53,11 @@ When VS Code opens a folder for the first time it asks whether you trust the wor
 
 ## Demo steps
 
-1. Press `Ctrl+K Ctrl+O`. Navigate to `DemoRepo/` and click **Select Folder**.
+1. Press `Ctrl+K Ctrl+O`. Navigate to `Demos/MyDemoModule/` and click **Select Folder**.
 2. If the trust prompt appears, click **Yes, I trust the authors**.
 3. Show the Explorer Side Bar populated with the module files.
 4. Close the folder (`File > Close Folder`).
-5. From the integrated terminal, `cd` to the repo root and run `code DemoRepo/`. Show the same result from the command line.
+5. From the integrated terminal, `cd` to the repo root and run `code Demos/MyDemoModule/`. Show the same result from the command line.
 
 ## Gotchas
 

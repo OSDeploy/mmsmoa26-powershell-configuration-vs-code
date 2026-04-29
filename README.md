@@ -47,8 +47,8 @@ Speaker split is a proposal; confirm before final rehearsal.
 - [05-GitHub-Integration/](./05-GitHub-Integration/) - learning objective 3
 - [06-GitHub-Copilot/](./06-GitHub-Copilot/) - learning objective 4
 - [07-Wrap-Up/](./07-Wrap-Up/) - takeaways, resources, Q&A prep
-- [Profile/](./Profile/) - shippable starter VS Code profile (settings, extensions list, snippets)
-- [DemoRepo/](./DemoRepo/) - sample PowerShell module used in the GitHub demo
+- [Samples/](./Samples/) - shippable starter VS Code profile (settings, extensions list, snippets)
+- [Demos/MyDemoModule/](./Demos/MyDemoModule/) - sample PowerShell module used in the GitHub demo
 - `Presentation/` - slide deck placeholders (not maintained here)
 
 ## Prerequisites for attendees
@@ -66,18 +66,18 @@ See [00-Introduction/prerequisites.md](./00-Introduction/prerequisites.md) for t
 
 ## Starter profile
 
-The `Profile/` directory contains the source-of-truth assets for the starter VS Code profile we hand out at the session:
+The `Samples/` directory contains the source-of-truth assets for the starter VS Code profile we hand out at the session:
 
 - `settings.json` - recommended settings
 - `extensions.txt` - extension IDs to install
 - `snippets/powershell.json` - PowerShell snippets
 - `mmsmoa26.code-profile` - exported profile (generated at prep time)
 
-See [Profile/README.md](./Profile/README.md) for how it is built and imported.
+See [Samples/README.md](./Samples/README.md) for how it is built and imported.
 
 ## Demo repo
 
-The `DemoRepo/` directory is a tiny PowerShell module used during the GitHub Integration demo (clone, branch, commit, PR). See [DemoRepo/README.md](./DemoRepo/README.md).
+The `Demos/MyDemoModule/` directory is a tiny PowerShell module used during the GitHub Integration demo (clone, branch, commit, PR). See [Demos/MyDemoModule/README.md](./Demos/MyDemoModule/README.md).
 
 ## License and reuse
 

@@ -37,14 +37,15 @@ Reusable prompts you invoke from chat with `/`. Example `.github/prompts/new-fun
 mode: agent
 ---
 
-Create a new advanced function in DemoRepo/Public.
+Create a new advanced function in Demos/MyDemoModule/Public.
 
 Ask me for:
+
 - function name (Verb-Noun)
 - one-line synopsis
 - pipeline behavior
 
-Then generate the function with [CmdletBinding()], param block, comment-based help, and a matching Pester 5 test under DemoRepo/Tests/.
+Then generate the function with [CmdletBinding()], param block, comment-based help, and a matching Pester 5 test under Demos/MyDemoModule/Tests/.
 ```
 
 ### 3. `AGENTS.md` and `.instructions.md`

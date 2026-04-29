@@ -41,5 +41,5 @@ git --version                    # Expect git version 2.x
 ## Things you do NOT need
 
 - Admin rights on a corporate machine - all demos work with user-scoped installs.
-- An existing PowerShell module to publish - we use `DemoRepo/` from this session.
+- An existing PowerShell module to publish - we use `Demos/MyDemoModule/` from this session.
 - Azure or any cloud account.

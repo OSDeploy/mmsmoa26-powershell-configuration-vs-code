@@ -31,7 +31,7 @@ By the end of this section attendees can:
 ## Demo outline
 
 1. Open VS Code to the Welcome tab. Point out the five UI regions (30 sec).
-2. Hit `Ctrl+Shift+P`, type "Open Folder", press Enter. Open `DemoRepo/`. (30 sec)
+2. Hit `Ctrl+Shift+P`, type "Open Folder", press Enter. Open `Demos/MyDemoModule/`. (30 sec)
 3. Show the Explorer view populate in the Side Bar.
 4. Hit `Ctrl+Shift+P`, type "Preferences: Open Settings (UI)". Walk the search bar. (30 sec)
 5. Hit `Ctrl+Shift+P`, type "Preferences: Open User Settings (JSON)". Show raw JSON. (20 sec)

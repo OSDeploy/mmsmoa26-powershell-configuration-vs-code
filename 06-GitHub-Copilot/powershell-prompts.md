@@ -46,7 +46,7 @@ Ask for a skeleton, accept it, then ask for the body. Easier to review than a 20
 
 ## Demo steps
 
-1. In `DemoRepo/`, place the cursor in a new file. Use the contract prompt above (paste from a snippet).
+1. In `Demos/MyDemoModule/`, place the cursor in a new file. Use the contract prompt above (paste from a snippet).
 2. Show the result, accept.
 3. Ask for tests in a follow-up prompt.
 4. Ask Copilot to "Refactor to use the pipeline `process` block." Compare diffs.
