@@ -1,4 +1,6 @@
-﻿# 02 - Extensions
+﻿![alt text](../assets/02-extensions-readme.png)
+
+# 02 - Extensions
 
 **Time:** 13 - 18 minutes (5 min)
 **Owner:** David

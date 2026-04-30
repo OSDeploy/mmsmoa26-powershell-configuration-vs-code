@@ -1,9 +1,11 @@
+![alt text](../assets/00-introduction-agenda.png)
+
 # Agenda
 
 | #   | Section            | Time     | Minutes | Lead  |
 | --- | ------------------ | -------- | ------- | ----- |
 | 00  | Introduction       | 0 - 5    | 5       | David |
-| 01  | VS Code First Run  | 5 - 13   | 8       | Jeff  |
+| 01  | Getting Started    | 5 - 13   | 8       | Jeff  |
 | 02  | Extensions         | 13 - 18  | 5       | David |
 | 03  | Profiles           | 18 - 30  | 12      | David |
 | 04  | Settings           | 30 - 43  | 13      | David |

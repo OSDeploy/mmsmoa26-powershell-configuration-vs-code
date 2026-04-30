@@ -1,4 +1,9 @@
 {
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.editor"
+  },
+  "markdown.preview.openMarkdownLinks": "inPreview",
+
   "editor.formatOnSave": true,
   "editor.formatOnPaste": false,
   "editor.tabSize": 4,

@@ -3,7 +3,7 @@
 ## This session
 
 - Repository: (insert short URL on slide)
-- Sched event: https://mms2026atmoa.sched.com/event/2HHGJ/master-powershell-configuration-in-vs-code
+- MMSMOA URL: https://mms2026atmoa.sched.com/event/2HHGJ
 - Starter profile: [../Samples/](../Samples/)
 - Demo repo: [../Demos/MyDemoModule/](../Demos/MyDemoModule/)
 

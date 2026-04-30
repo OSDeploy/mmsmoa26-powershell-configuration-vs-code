@@ -1,3 +1,5 @@
+![alt text](../assets/00-introduction-speakers.png)
+
 # Speakers
 
 ## David Segura
@@ -19,7 +21,7 @@
 | Section               | Lead  |
 | --------------------- | ----- |
 | 00 Introduction       | Jeff  |
-| 01 VS Code First Run  | Jeff  |
+| 01 Getting Started    | Jeff  |
 | 02 Extensions         | Jeff  |
 | 03 Profiles           | David |
 | 04 Settings           | David |

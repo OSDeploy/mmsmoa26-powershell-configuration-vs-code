@@ -2,7 +2,7 @@
 
 **MMS 2026 at MOA -- Monday, May 4, 2026, 3:00 PM - 4:45 PM CDT -- Cedar Room**
 **Speakers:** David Segura and Jeff Scripter (Recast Software)
-**Session repo:** https://mms2026atmoa.sched.com/event/2HHGJ/master-powershell-configuration-in-vs-code
+**Session repo:** https://mms2026atmoa.sched.com/event/2HHGJ
 
 ---
 
@@ -22,7 +22,7 @@
 - Frames the session as a fresh-install playbook, not a tips list.
 - The deliverable is a ready-to-import starter profile plus four repeatable habits.
 
-### 01 - VS Code First Run (5-13 min)
+### 01 - Getting Started (5-13 min)
 
 - Five UI regions: Activity Bar, Side Bar, Editor, Panel, Status Bar.
 - Command Palette (`Ctrl+Shift+P`) is the fastest path to any command.
