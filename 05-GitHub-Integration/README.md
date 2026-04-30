@@ -1,3 +1,5 @@
+![alt text](../assets/05-github-integration-readme.png)
+
 # 05 - GitHub Integration
 
 **Time:** 43 - 55 minutes (12 min)

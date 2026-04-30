@@ -1,3 +1,5 @@
+![alt text](../assets/06-github-copilot-readme.png)
+
 # 06 - GitHub Copilot
 
 **Time:** 55 - 65 minutes (10 min)
