@@ -6,7 +6,7 @@ These instructions guide GitHub Copilot (and any AI assistant) when working in t
 
 - Event: MMS 2026 at MOA (Mall of America)
 - Session title: Master PowerShell Configuration in VS Code
-- Session URL: https://mms2026atmoa.sched.com/event/2HHGJ/master-powershell-configuration-in-vs-code
+- Session URL: https://mms2026atmoa.sched.com/event/2HHGJ
 - Date / time: Monday, May 4, 2026, 3:00 PM - 4:45 PM CDT
 - Room: Cedar
 - Format: 60 minutes presentation + live demos, followed by 45 minutes of Q&A (105 minutes total)
@@ -34,16 +34,19 @@ These map 1:1 to folders `03-Profiles/`, `04-Settings/`, `05-GitHub-Integration/
 ```
 .github/                      # Copilot instructions (this file)
 00-Introduction/              # 5 min intro
-01-VS-Code-First-Run/         # 8 min UI orientation and first-run essentials
+01-Getting-Started/           # 8 min getting started with VS Code
 02-Extensions/                # 5 min essential extensions list and bulk install
-03-Profiles/                  # Learning objective 1
-04-Settings/                  # Learning objective 2
-05-GitHub-Integration/        # Learning objective 3
-06-GitHub-Copilot/            # Learning objective 4
+03-Profiles/                  # 12 min - Learning objective 1
+04-Settings/                  # 13 min - Learning objective 2
+05-GitHub-Integration/        # 12 min - Learning objective 3
+06-GitHub-Copilot/            # 10 min - Learning objective 4
 07-Wrap-Up/                   # 3 min wrap + Q&A prep
 Samples/                      # Shippable starter VS Code profile assets
 Demos/                        # Sample PowerShell module used in the GitHub demo
-Presentation/                 # IGNORED - slide placeholders, do not edit
+PowerPoint/                   # IGNORED - slide deck, do not edit
+Summary/                      # Session summary document
+Tips/                         # Presenter tips and notes
+.vscode/                      # Workspace settings
 README.md                     # Full session outline
 ```
 
@@ -51,7 +54,7 @@ Each section folder has a `README.md` (objectives, timing, demo outline, talking
 
 ## Scope guardrails
 
-- **Ignore `Presentation/`.** Treat its contents as opaque placeholders. Do not read, edit, or reference them.
+- **Ignore `PowerPoint/`.** Treat its contents as opaque placeholders. Do not read, edit, or reference them.
 - Do not invent attendees, sponsors, or other sessions.
 - Do not change the session title, learning objectives, or timing without an explicit request.
 - Do not generate slides; this repo holds outlines, talking points, demo scripts, and reusable configuration only.
@@ -71,7 +74,7 @@ Each section folder has a `README.md` (objectives, timing, demo outline, talking
 - Primary: Windows 11 with PowerShell 7.x.
 - Secondary: call out Windows PowerShell 5.1 differences when they affect attendees (encoding, module compatibility, ISE migration).
 - VS Code: stable channel. Use Insiders only when a feature requires it and label it clearly.
-- Extensions referenced by ID (e.g., `ms-vscode.powershell`, `github.copilot`, `github.vscode-pull-request-github`, `github.vscode-github-actions`, `github.remotehub`, `DavidAnson.vscode-markdownlint`, `tobysmith568.run-in-powershell`, `esbenp.prettier-vscode`).
+- Extensions referenced by ID (e.g., `ms-vscode.powershell`, `github.copilot`, `github.copilot-chat`, `github.vscode-pull-request-github`, `github.vscode-github-actions`, `github.remotehub`, `editorconfig.editorconfig`, `streetsidesoftware.code-spell-checker`, `DavidAnson.vscode-markdownlint`, `tobysmith568.run-in-powershell`, `esbenp.prettier-vscode`).
 - Settings shown as JSON snippets from `settings.json` so attendees can paste them.
 
 ## Demo conventions

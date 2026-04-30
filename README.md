@@ -1,3 +1,5 @@
+![alt text](assets/readme.png)
+
 # Master PowerShell Configuration in VS Code
 
 Materials for the MMSMOA 2026 session of the same name.
@@ -6,7 +8,7 @@ Materials for the MMSMOA 2026 session of the same name.
 - **When:** Monday, May 4, 2026, 3:00 PM - 4:45 PM CDT
 - **Where:** Cedar
 - **Format:** 68 minutes content + live demos, followed by 37 minutes Q&A
-- **Sched:** https://mms2026atmoa.sched.com/event/2HHGJ/master-powershell-configuration-in-vs-code
+- **MMSMOA URL:** https://mms2026atmoa.sched.com/event/2HHGJ
 - **Speakers:** David Segura and Jeff Scripter (Recast Software)
 
 ## Description
@@ -25,7 +27,7 @@ A practical, fresh-install approach to configuring VS Code for PowerShell. We st
 | Time (min) | Section                                                    | Owner |
 | ---------- | ---------------------------------------------------------- | ----- |
 | 0 - 5      | [00 Introduction](./00-Introduction/README.md)             | David |
-| 5 - 13     | [01 VS Code First Run](./01-VS-Code-First-Run/README.md)   | Jeff  |
+| 5 - 13     | [01 Getting Started](./01-Getting-Started/README.md)       | Jeff  |
 | 13 - 18    | [02 Extensions](./02-Extensions/README.md)                 | David |
 | 18 - 30    | [03 Profiles](./03-Profiles/README.md)                     | David |
 | 30 - 43    | [04 Settings](./04-Settings/README.md)                     | David |
@@ -40,7 +42,7 @@ Speaker split is a proposal; confirm before final rehearsal.
 
 - [.github/copilot-instructions.md](./.github/copilot-instructions.md) - guidance for AI assistants working in this repo
 - [00-Introduction/](./00-Introduction/) - speakers, conference, agenda, prerequisites
-- [01-VS-Code-First-Run/](./01-VS-Code-First-Run/) - UI orientation and first-run essentials
+- [01-Getting-Started/](./01-Getting-Started/) - Getting started with VS Code
 - [02-Extensions/](./02-Extensions/) - essential extensions list and bulk install
 - [03-Profiles/](./03-Profiles/) - learning objective 1
 - [04-Settings/](./04-Settings/) - learning objective 2

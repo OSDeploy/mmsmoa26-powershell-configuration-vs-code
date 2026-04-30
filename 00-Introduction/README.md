@@ -1,3 +1,6 @@
+![alt text](../assets/00-introduction-readme-1.png)
+![alt text](../assets/00-introduction-readme-2.png)
+
 # 00 - Introduction
 
 **Time:** 0 - 5 minutes
