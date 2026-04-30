@@ -1,3 +1,5 @@
+![alt text](../assets/03-profiles-readme.png)
+
 # 03 - Profiles
 
 **Time:** 18 - 30 minutes (12 min)

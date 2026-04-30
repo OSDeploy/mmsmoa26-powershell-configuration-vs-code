@@ -1,4 +1,4 @@
-![alt text](assets/readme.png)
+![alt text](assets/title.png)
 
 # Master PowerShell Configuration in VS Code
 

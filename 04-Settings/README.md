@@ -1,3 +1,5 @@
+![alt text](../assets/04-settings-readme.png)
+
 # 04 - Settings
 
 **Time:** 30 - 43 minutes (13 min)

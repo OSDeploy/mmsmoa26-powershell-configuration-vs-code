@@ -1,3 +1,5 @@
+![alt text](../assets/07-wrap-up-readme.png)
+
 # 07 - Wrap-Up
 
 **Time:** 65 - 68 minutes (3 min), then 37 minutes Q&A
