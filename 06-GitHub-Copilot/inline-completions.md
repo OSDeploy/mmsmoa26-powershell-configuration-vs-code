@@ -55,3 +55,8 @@ Most of the productivity gain from Copilot for module authors is boilerplate: pa
 ## References
 
 - https://code.visualstudio.com/docs/copilot/ai-powered-suggestions
+
+
+---
+
+[Back to README](./README.md)

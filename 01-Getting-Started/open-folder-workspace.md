@@ -69,3 +69,8 @@ When VS Code opens a folder for the first time it asks whether you trust the wor
 
 - Multi-root workspaces: https://code.visualstudio.com/docs/editor/multi-root-workspaces
 - Workspace trust: https://code.visualstudio.com/docs/editor/workspace-trust
+
+
+---
+
+[Back to README](./README.md)

@@ -54,3 +54,8 @@ To see and edit all bindings: `Ctrl+K Ctrl+S` or `> Preferences: Open Keyboard S
 
 - Command Palette docs: https://code.visualstudio.com/docs/getstarted/userinterface#_command-palette
 - Keyboard shortcuts reference (Windows): https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+
+---
+
+[Back to README](./README.md)

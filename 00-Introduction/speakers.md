@@ -30,3 +30,8 @@
 | 07 Wrap-Up + Q&A      | Jeff  |
 
 Confirm the split during dry run. Either presenter can take any section if needed.
+
+
+---
+
+[Back to README](./README.md)

@@ -43,3 +43,8 @@ git --version                    # Expect git version 2.x
 - Admin rights on a corporate machine - all demos work with user-scoped installs.
 - An existing PowerShell module to publish - we use `Demos/MyDemoModule/` from this session.
 - Azure or any cloud account.
+
+
+---
+
+[Back to README](./README.md)

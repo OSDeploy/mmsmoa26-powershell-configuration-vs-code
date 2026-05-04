@@ -77,3 +77,8 @@ Section 03 covers this in detail.
 
 - Extension Marketplace docs: https://code.visualstudio.com/docs/editor/extension-marketplace
 - Extensions: recommended by workspace: https://code.visualstudio.com/docs/editor/extension-marketplace#_workspace-recommended-extensions
+
+
+---
+
+[Back to README](./README.md)

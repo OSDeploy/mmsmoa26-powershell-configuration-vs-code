@@ -84,3 +84,8 @@ Demo instructions like "click the Extensions icon in the Activity Bar" are meani
 ## References
 
 - VS Code user interface overview: https://code.visualstudio.com/docs/getstarted/userinterface
+
+
+---
+
+[Back to README](./README.md)

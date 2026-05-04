@@ -67,3 +67,8 @@ Defaults are fine for casual editing; PowerShell module work needs deterministic
 
 - Settings reference: https://code.visualstudio.com/docs/configure/settings
 - File encoding: https://code.visualstudio.com/docs/configure/settings#_files
+
+
+---
+
+[Back to README](./README.md)

@@ -46,4 +46,4 @@ CodeLens is a core VS Code editor feature, not a marketplace extension. The Powe
 - PowerShell extension settings: https://code.visualstudio.com/docs/languages/powershell
 - Pester: https://pester.dev/
 
-[Back to section](./README.md)
+[Back to README](./README.md)

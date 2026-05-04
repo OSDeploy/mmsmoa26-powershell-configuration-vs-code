@@ -35,3 +35,8 @@ The Command Palette `Git: Clone` flow is faster than the GitHub website -> Code 
 ## References
 
 - https://code.visualstudio.com/docs/sourcecontrol/github#_cloning-a-repository
+
+
+---
+
+[Back to README](./README.md)

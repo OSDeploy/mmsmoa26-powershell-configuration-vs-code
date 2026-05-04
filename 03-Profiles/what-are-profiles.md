@@ -37,3 +37,8 @@ None for this subtopic; it is conceptual. Show one slide or just talk over the e
 ## References
 
 - Profiles overview: https://code.visualstudio.com/docs/configure/profiles
+
+
+---
+
+[Back to README](./README.md)

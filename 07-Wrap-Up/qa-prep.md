@@ -37,3 +37,8 @@ Questions we expect, with one-line answers ready. Use to seed the room if it is 
 ## Defer-and-follow-up
 
 For deeper questions (custom MCP servers, internal model routing, large-org policy), capture the question and follow up via GitHub Issues on the session repo.
+
+
+---
+
+[Back to README](./README.md)

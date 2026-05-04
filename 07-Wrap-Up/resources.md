@@ -50,3 +50,8 @@
 - Jeff Scripter on Sched: https://mms2026atmoa.sched.com/speaker/jeff_scripter.28jia85t
 - OSDCloud: https://www.osdcloud.com/
 - Recast Software: https://www.recastsoftware.com/
+
+
+---
+
+[Back to README](./README.md)

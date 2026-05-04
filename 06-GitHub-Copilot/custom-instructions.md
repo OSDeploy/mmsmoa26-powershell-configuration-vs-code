@@ -69,3 +69,8 @@ Then generate the function with [CmdletBinding()], param block, comment-based he
 
 - About Copilot custom instructions: https://docs.github.com/en/copilot/customizing-copilot/about-customizing-github-copilot-chat-responses
 - VS Code prompt files: https://code.visualstudio.com/docs/copilot/copilot-customization
+
+
+---
+
+[Back to README](./README.md)

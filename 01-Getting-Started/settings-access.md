@@ -78,3 +78,8 @@ Example `.vscode/settings.json`:
 
 - Settings documentation: https://code.visualstudio.com/docs/configure/settings
 - Settings scope reference: https://code.visualstudio.com/docs/configure/settings#_settings-precedence
+
+
+---
+
+[Back to README](./README.md)
