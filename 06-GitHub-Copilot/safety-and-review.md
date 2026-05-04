@@ -62,3 +62,8 @@ Verify on github.com -> your org -> Settings -> Copilot.
 
 - Responsible use of Copilot: https://docs.github.com/en/copilot/responsible-use-of-github-copilot-features
 - Content exclusions: https://docs.github.com/en/copilot/managing-copilot/managing-copilot-for-your-organization/excluding-content-from-github-copilot
+
+
+---
+
+[Back to README](./README.md)

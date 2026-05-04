@@ -84,3 +84,8 @@ Example `PSScriptAnalyzerSettings.psd1`:
 
 - PSScriptAnalyzer: https://learn.microsoft.com/powershell/utility-modules/psscriptanalyzer/overview
 - PowerShell extension formatting: https://code.visualstudio.com/docs/languages/powershell#_formatting
+
+
+---
+
+[Back to README](./README.md)

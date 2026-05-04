@@ -33,3 +33,8 @@ A profile is only as useful as what you put in it. A bloated profile defeats the
 ## References
 
 - https://code.visualstudio.com/docs/configure/profiles#_profile-contents
+
+
+---
+
+[Back to README](./README.md)

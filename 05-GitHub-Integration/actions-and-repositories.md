@@ -75,3 +75,8 @@ Both are in the starter profile.
 - GitHub Repositories (RemoteHub): https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub
 - Virtual Workspaces: https://code.visualstudio.com/api/extension-guides/virtual-workspaces
 - GitHub Actions docs: https://docs.github.com/en/actions
+
+
+---
+
+[Back to README](./README.md)

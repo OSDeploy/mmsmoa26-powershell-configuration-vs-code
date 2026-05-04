@@ -48,3 +48,8 @@ Open with `Ctrl+Alt+I` (chat panel) or `Ctrl+Shift+I` (inline chat).
 
 - https://code.visualstudio.com/docs/copilot/copilot-chat
 - https://code.visualstudio.com/docs/copilot/copilot-edits
+
+
+---
+
+[Back to README](./README.md)

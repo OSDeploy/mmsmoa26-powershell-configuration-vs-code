@@ -60,3 +60,8 @@ Snippets included:
 
 - Keybindings: https://code.visualstudio.com/docs/configure/keybindings
 - User snippets: https://code.visualstudio.com/docs/editor/userdefinedsnippets
+
+
+---
+
+[Back to README](./README.md)

@@ -49,3 +49,8 @@ Open `Demos/MyDemoModule/` and confirm:
 ## Updating
 
 This profile is a starting point. Fork it, edit `Samples/`, re-export, share with your team. PRs welcome on the session repo if you spot a real improvement.
+
+
+---
+
+[Back to README](./README.md)

@@ -65,3 +65,8 @@ The same list lives in [../Samples/extensions.txt](../Samples/extensions.txt).
 
 - Extension Marketplace: https://marketplace.visualstudio.com/vscode
 - Workspace extension recommendations: https://code.visualstudio.com/docs/configure/extensions/extension-marketplace#_workspace-recommended-extensions
+
+
+---
+
+[Back to README](./README.md)

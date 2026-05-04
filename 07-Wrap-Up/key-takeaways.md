@@ -25,3 +25,8 @@ Pick **one** of these and start tomorrow:
 - Turn on `editor.formatOnSave` for `[powershell]`.
 - Open your next PR review inside VS Code instead of the browser.
 - Add a `.github/copilot-instructions.md` to your team's main module repo.
+
+
+---
+
+[Back to README](./README.md)

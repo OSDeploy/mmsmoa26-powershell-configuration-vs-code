@@ -60,3 +60,8 @@ Cloning prompts for trust on first open. Trust the local clone of the session re
 - VS Code authentication: https://code.visualstudio.com/docs/sourcecontrol/github#_authentication
 - Git Credential Manager: https://github.com/GitCredentialManager/git-credential-manager
 - Signed commits: https://docs.github.com/en/authentication/managing-commit-signature-verification
+
+
+---
+
+[Back to README](./README.md)

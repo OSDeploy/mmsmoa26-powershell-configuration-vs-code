@@ -108,3 +108,8 @@ Section 04 uses this pattern when showing PSScriptAnalyzer runs that must be pro
 
 - Integrated terminal docs: https://code.visualstudio.com/docs/terminal/basics
 - Terminal profiles: https://code.visualstudio.com/docs/terminal/profiles
+
+
+---
+
+[Back to README](./README.md)

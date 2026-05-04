@@ -58,3 +58,8 @@ Switching to a browser to review a PR breaks flow. The GitHub Pull Requests exte
 
 - https://github.com/microsoft/vscode-pull-request-github
 - https://docs.github.com/en/pull-requests
+
+
+---
+
+[Back to README](./README.md)

@@ -55,3 +55,8 @@ If your GitHub user is part of an org with a Copilot subscription, that org's po
 
 - https://code.visualstudio.com/docs/copilot/setup
 - https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber
+
+
+---
+
+[Back to README](./README.md)

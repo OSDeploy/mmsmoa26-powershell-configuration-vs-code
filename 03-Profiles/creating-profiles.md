@@ -37,3 +37,8 @@ You only get the isolation benefits of profiles if you actually create one and u
 ## References
 
 - https://code.visualstudio.com/docs/configure/profiles#_create-a-profile
+
+
+---
+
+[Back to README](./README.md)

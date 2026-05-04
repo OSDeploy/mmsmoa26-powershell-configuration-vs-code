@@ -56,3 +56,8 @@ Most PowerShell module changes are a small branch, a few commits, a PR. Do that 
 ## References
 
 - Source Control overview: https://code.visualstudio.com/docs/sourcecontrol/overview
+
+
+---
+
+[Back to README](./README.md)

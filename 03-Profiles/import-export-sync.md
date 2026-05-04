@@ -38,3 +38,8 @@ Building a profile once and re-using it everywhere is the whole point. Two paths
 
 - https://code.visualstudio.com/docs/configure/profiles#_import-export-profiles
 - https://code.visualstudio.com/docs/configure/settings-sync
+
+
+---
+
+[Back to README](./README.md)

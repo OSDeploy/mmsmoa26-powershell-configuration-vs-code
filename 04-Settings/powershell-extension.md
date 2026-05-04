@@ -69,3 +69,8 @@ Or in the Extensions view, search "PowerShell" by Microsoft.
 
 - https://code.visualstudio.com/docs/languages/powershell
 - https://github.com/PowerShell/vscode-powershell
+
+
+---
+
+[Back to README](./README.md)

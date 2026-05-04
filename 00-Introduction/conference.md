@@ -26,3 +26,8 @@ code authoring.
 - A recommended settings baseline with formatting and security covered.
 - GitHub integration -- clone, branch, commit, and review PRs without leaving VS Code.
 - GitHub Copilot configured and scoped to your PowerShell style.
+
+
+---
+
+[Back to README](./README.md)

@@ -6,7 +6,7 @@ Attendees who want to follow along on a laptop should install these before the s
 
 - Windows 11 (Windows 10 22H2 works; macOS / Linux work but demos are Windows)
 - Visual Studio Code (stable channel) - https://code.visualstudio.com/
-- PowerShell 7.x - `winget install --id Microsoft.PowerShell`
+- PowerShell 7.x - `winget install --id Microsoft.PowerShell` - INSTALL WITH THE MSI NOT WINGET
 - Git for Windows - `winget install --id Git.Git`
 - A GitHub account - https://github.com/join
 
@@ -43,3 +43,8 @@ git --version                    # Expect git version 2.x
 - Admin rights on a corporate machine - all demos work with user-scoped installs.
 - An existing PowerShell module to publish - we use `Demos/MyDemoModule/` from this session.
 - Azure or any cloud account.
+
+
+---
+
+[Back to README](./README.md)
