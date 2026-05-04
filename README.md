@@ -81,6 +81,8 @@ See [Samples/README.md](./Samples/README.md) for how it is built and imported.
 
 The `Demos/MyDemoModule/` directory is a tiny PowerShell module used during the GitHub Integration demo (clone, branch, commit, PR). See [Demos/MyDemoModule/README.md](./Demos/MyDemoModule/README.md).
 
+![alt text](image.png)
+
 ## License and reuse
 
 Materials are provided for attendee learning and reuse. Adapt freely for your own team. Trademarks and product names belong to their respective owners.

@@ -1,10 +1,20 @@
-@{
+﻿@{
     IncludeDefaultRules = $true
+    IncludeRules = @(
+        'PSAvoidShortVariableNames'
+    )
+    CustomRulePath = @(
+        '.\PSScriptAnalyzer\AnalyzerRules\MyDemoModule.CustomRules.psm1'
+    )
     Severity = @('Error','Warning','Information')
     ExcludeRules = @(
         'PSUseShouldProcessForStateChangingFunctions'
     )
     Rules = @{
+        PSAvoidShortVariableNames = @{
+            Enable        = $true
+            MinimumLength = 4
+        }
         PSPlaceOpenBrace = @{
             Enable             = $true
             OnSameLine         = $true

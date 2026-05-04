@@ -1,0 +1,4 @@
+{
+    "runInPowerShell.PowershellCoreLocation": "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.6.1.0_x64__8wekyb3d8bbwe\\pwsh.exe",
+    "editor.defaultFormatter": "tobysmith568.run-in-powershell"
+}
