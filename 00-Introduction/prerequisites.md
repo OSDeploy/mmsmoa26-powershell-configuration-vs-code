@@ -6,7 +6,7 @@ Attendees who want to follow along on a laptop should install these before the s
 
 - Windows 11 (Windows 10 22H2 works; macOS / Linux work but demos are Windows)
 - Visual Studio Code (stable channel) - https://code.visualstudio.com/
-- PowerShell 7.x - `winget install --id Microsoft.PowerShell`
+- PowerShell 7.x - `winget install --id Microsoft.PowerShell` - INSTALL WITH THE MSI NOT WINGET
 - Git for Windows - `winget install --id Git.Git`
 - A GitHub account - https://github.com/join
 
