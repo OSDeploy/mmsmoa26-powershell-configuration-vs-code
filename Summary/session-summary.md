@@ -87,7 +87,7 @@
 
 | File                               | Purpose                                                                |
 | ---------------------------------- | ---------------------------------------------------------------------- |
-| `Samples/Pwsh GitHub.code-profile` | Import this profile to get the full setup instantly                    |
+| `Samples/mmsmoa26.code-profile`    | Import this profile to get the full setup instantly                    |
 | `Samples/settings.json`            | Recommended settings block -- paste into your User or Profile settings |
 | `Samples/extensions.txt`           | Extension IDs for bulk install                                         |
 | `Samples/snippets/powershell.json` | Starter PowerShell snippets                                            |
