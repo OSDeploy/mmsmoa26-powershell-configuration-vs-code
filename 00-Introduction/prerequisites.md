@@ -6,8 +6,26 @@ Attendees who want to follow along on a laptop should install these before the s
 
 - Windows 11 (Windows 10 22H2 works; macOS / Linux work but demos are Windows)
 - Visual Studio Code (stable channel) - https://code.visualstudio.com/
-- PowerShell 7.x - `winget install --id Microsoft.PowerShell` - INSTALL WITH THE MSI NOT WINGET
-- Git for Windows - `winget install --id Git.Git`
+
+```powershell
+winget install -e --id Microsoft.VisualStudioCode --override '/SILENT /mergetasks="!runcode,addcontextmenufiles,addcontextmenufolders,associatewithfiles,addtopath"'
+```
+
+- PowerShell 7.x
+
+```powershell
+winget install -e --id Microsoft.PowerShell --override '/passive ADD_EXPLORER_CONTEXT_MENU_OPENPOWERSHELL=1 ADD_FILE_CONTEXT_MENU_RUNPOWERSHELL=1 ENABLE_PSREMOTING=1 REGISTER_MANIFEST=1 USE_MU=1 ENABLE_MU=1 ADD_PATH=1'
+```
+
+- Git for Windows
+
+```powershell
+winget install -e -h --id Git.Git --accept-source-agreements --accept-package-agreements
+# Refresh Path before running the next commands, or open a new terminal
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
 - A GitHub account - https://github.com/join
 
 ## Recommended
@@ -43,7 +61,6 @@ git --version                    # Expect git version 2.x
 - Admin rights on a corporate machine - all demos work with user-scoped installs.
 - An existing PowerShell module to publish - we use `Demos/MyDemoModule/` from this session.
 - Azure or any cloud account.
-
 
 ---
 
