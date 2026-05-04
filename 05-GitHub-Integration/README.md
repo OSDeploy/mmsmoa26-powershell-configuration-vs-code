@@ -1,6 +1,6 @@
 ![alt text](../assets/05-github-integration-readme.png)
 
-# 05 - GitHub Integration
+# 05 - GitHub Integration is COOL
 
 **Time:** 43 - 55 minutes (12 min)
 **Owner:** Jeff
