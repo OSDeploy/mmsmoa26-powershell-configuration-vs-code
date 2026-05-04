@@ -5,6 +5,8 @@
 Move beyond default chat behavior by wiring Copilot into your team's conventions,
 tools, and workflows.
 
+![alt text](../assets/CopilotFiles.png)
+
 ## Why it matters
 
 Out of the box, Copilot knows nothing about your module structure, coding standards,

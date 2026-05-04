@@ -24,6 +24,7 @@ By the end of this section attendees can:
 - [copilot-chat.md](./copilot-chat.md)
 - [powershell-prompts.md](./powershell-prompts.md)
 - [custom-instructions.md](./custom-instructions.md)
+- [copilot-enhancements.md](./copilot-enhancements.md)
 - [safety-and-review.md](./safety-and-review.md)
 
 ## Demo outline
